@@ -1,0 +1,463 @@
+{
+	"taxonomy": {
+		"automotive": {
+			"name": "Automotive ",
+			"topics": [
+				"Auto Body Styles",
+				"Auto Buying and Selling",
+				"Auto Insurance",
+				"Auto Parts",
+				"Auto Recalls",
+				"Auto Repair",
+				"Auto Safety",
+				"Auto Shows",
+				"Auto Technology",
+				"Auto Type",
+				"Car Culture",
+				"Dash Cam Videos",
+				"Motorcycles",
+				"Road-Side Assistance",
+				"Scooters"
+			]
+		},
+		"books-and-literature": {
+			"name": "Books and Literature",
+			"topics": [
+				"Art and Photography Books",
+				"Biographies",
+				"Children's Literature",
+				"Comics and Graphic Novels",
+				"Cookbooks",
+				"Fiction",
+				"Poetry",
+				"Travel Books",
+				"Young Adult Literature"
+			]
+		},
+		"business-and-finance": {
+			"name": "Business and Finance",
+			"topics": [
+				"Business",
+				"Economy",
+				"Industries"
+			]
+		},
+		"Careers": {
+			"name": "Careers",
+			"topics": [
+				"Apprenticeships",
+				"Career Advice",
+				"Career Planning",
+				"Job Search",
+				"Telecommuting",
+				"Vocational Training"
+			]
+		},
+		"education": {
+			"name": "Education",
+			"topics": [
+				"Adult Education",
+				"College Education",
+				"Early Childhood Education",
+				"Educational Assessment",
+				"Homeschooling",
+				"Homework and Study",
+				"Language Learning",
+				"Online Education",
+				"Primary Education",
+				"Private School",
+				"Secondary Education",
+				"Special Education"
+			]
+		},
+		"family-and-relationships": {
+			"name": "Family and Relationships",
+			"topics": [
+				"Bereavement",
+				"Dating",
+				"Divorce",
+				"Eldercare",
+				"Marriage and Civil Unions",
+				"Parenting",
+				"Single Life"
+
+			]
+		},
+		"fine-art": {
+			"name": "Fine Art",
+			"topics": [
+				"Costume",
+				"Dance",
+				"Design",
+				"Digital Arts",
+				"Fine Art Photography",
+				"Modern Art",
+				"Opera",
+				"Theater"
+			]
+		},
+		"food-drink": {
+			"name": "Food & Drink",
+			"topics": [
+				"Alcoholic Beverages",
+				"Barbecues and Grilling",
+				"Cooking",
+				"Desserts and Baking",
+				"Dining Out",
+				"Food Allergies",
+				"Food Movements",
+				"Healthy Cooking and Eating",
+				"Non-Alcoholic Beverages",
+				"Vegan Diets",
+				"Vegetarian Diets",
+				"World Cuisines"
+			]
+		},
+		"healthy-living": {
+			"name": "Healthy Living",
+			"topics": [
+				"Children's Health",
+				"Fitness and Exercise",
+				"Men's Health",
+				"Nutrition",
+				"Senior Health",
+				"Weight Loss",
+				"Wellness",
+				"Women's Health"
+
+			]
+		},
+		"hobbies-interests": {
+			"name": "Hobbies & Interests",
+			"topics": [
+				"Antiquing and Antiques",
+				"Arts and Crafts",
+				"Beekeeping",
+				"Birdwatching",
+				"Cigars",
+				"Collecting",
+				"Content Production",
+				"Games and Puzzles",
+				"Genealogy and Ancestry",
+				"Magic and Illusion",
+				"Model Toys",
+				"Musical Instruments",
+				"Paranormal Phenomena",
+				"Radio Control",
+				"Sci-fi and Fantasy",
+				"Workshops and Classes"
+			]
+		},
+		"home-garden": {
+			"name": "Home & Garden",
+			"topics": [
+				"Gardening",
+				"Home Appliances",
+				"Home Entertaining",
+				"Home Improvement",
+				"Home Security",
+				"Indoor Environmental Quality",
+				"Interior Decorating",
+				"Landscaping",
+				"Outdoor Decorating",
+				"Remodeling & Construction",
+				"Smart Home"
+			]
+		},
+		"medical-health": {
+			"name": "Medical Health",
+			"topics": [
+				"Diseases and Conditions",
+				"Medical Tests",
+				"Pharmaceutical Drugs",
+				"Surgery",
+				"Vaccines"
+			]
+		},
+		"movies": {
+			"name": "Movies",
+			"topics": [
+				"Action and Adventure Movies",
+				"Animation Movies",
+				"Comedy Movies",
+				"Crime and Mystery Movies",
+				"Documentary Movies",
+				"Drama Movies",
+				"Family and Children Movies",
+				"Fantasy Movies",
+				"Horror Movies",
+				"Romance Movies",
+				"Science Fiction Movies",
+				"Special Interest Movies"
+			]
+		},
+		"music-and-audio": {
+			"name": "Music and Audio",
+			"topics": [
+				"Adult Contemporary Music",
+				"Arts Podcasts",
+				"Blues",
+				"Business News Radio",
+				"Business Podcasts",
+				"Children's Music",
+				"Classic Hits",
+				"Classical Music",
+				"College Radio",
+				"Comedy Podcasts",
+				"Comedy Radio",
+				"Contemporary Hits",
+				"Country Music",
+				"Dance and Electronic Music",
+				"Education Podcasts",
+				"Folk Music",
+				"Games & Hobbies Podcasts",
+				"Gospel Music",
+				"Health Podcasts",
+				"Hip Hop Music",
+				"Inspirational Music",
+				"International Music",
+				"Jazz",
+				"Kids & Family Podcasts",
+				"News & Politics Podcasts",
+				"Oldies Music",
+				"Public Radio",
+				"Reggae",
+				"Religion & Spirituality Podcasts",
+				"Religious Music",
+				"Rhythm and Blues",
+				"Rock Music",
+				"Science & Medicine Podcasts",
+				"Society & Culture Podcasts",
+				"Soundtracks",
+				"Sports & Recreation Podcasts",
+				"Sports Play-by-Play",
+				"Sports Talk Radio",
+				"Talk Radio",
+				"Technology Podcasts",
+				"TV & Film Podcasts",
+				"Urban Adult Contemporary Music",
+				"Urban Contemporary Music"
+			]
+		},
+		"news-and-politics": {
+			"name": "News and Politics",
+			"topics": [
+				"Crime",
+				"Disasters",
+				"International News",
+				"Law",
+				"Local News",
+				"National News",
+				"Politics",
+				"Weather"
+
+			]
+		},
+		"personal-finance": {
+			"name": "Personal Finance",
+			"topics": [
+				"Consumer Banking",
+				"Financial Assistance",
+				"Financial Planning",
+				"Frugal Living",
+				"Insurance",
+				"Personal Debt",
+				"Personal Investing",
+				"Personal Taxes",
+				"Retirement Planning"
+			]
+		},
+		"pets": {
+			"name": "Pets",
+			"topics": [
+				"Birds",
+				"Cats",
+				"Dogs",
+				"Fish and Aquariums",
+				"Large Animals",
+				"Pet Adoptions",
+				"Reptiles",
+				"Veterinary Medicine"
+			]
+		},
+		"pop-culture": {
+			"name": "Pop Culture",
+			"topics": [
+				"Celebrity Deaths",
+				"Celebrity Families",
+				"Celebrity Homes",
+				"Celebrity Pregnancy",
+				"Celebrity Relationships",
+				"Celebrity Scandal",
+				"Celebrity Style"
+			]
+		},
+		"real-estate": {
+			"name": "Real Estate",
+			"topics": [
+				"Apartments",
+				"Developmental Sites",
+				"Hotel Properties",
+				"Houses",
+				"Industrial Property",
+				"Land and Farms",
+				"Office Property",
+				"Real Estate Buying and Selling",
+				"Real Estate Renting and Leasing",
+				"Retail Property",
+				"Vacation Properties"
+			]
+		},
+		"religion-spirituality": {
+			"name": "Religion & Spirituality",
+			"topics": [
+				"Agnosticism",
+				"Astrology",
+				"Atheism",
+				"Buddhism",
+				"Christianity",
+				"Hinduism",
+				"Islam",
+				"Judaism",
+				"Sikhism",
+				"Spirituality"
+			]
+		},
+		"science": {
+			"name": "Science",
+			"topics": [
+				"Biological Sciences",
+				"Chemistry",
+				"Environment",
+				"Genetics",
+				"Geography",
+				"Geology",
+				"Physics",
+				"Space and Astronomy"
+			]
+		},
+		"shopping": {
+			"name": "Shopping",
+			"topics": [
+				"Couponing"
+			]
+		},
+		"sports": {
+			"name": "Sports",
+			"topics": [
+				"American Football",
+				"Australian Rules Football",
+				"Auto Racing",
+				"Badminton",
+				"Baseball",
+				"Basketball",
+				"Beach Volleyball",
+				"Bodybuiling",
+				"Bowling",
+				"Boxing",
+				"Cheerleading",
+				"College Sports",
+				"Cricket",
+				"Cycling",
+				"Darts",
+				"Disabled Sports",
+				"Diving",
+				"Equine Sports",
+				"Extreme Sports",
+				"Fantasy Sports",
+				"Field Hockey",
+				"Figure Skating",
+				"Fishing Sports",
+				"Golf",
+				"Gymnastics",
+				"Hunting and Shooting",
+				"Ice Hockey",
+				"Inline Skating",
+				"Lacrosse",
+				"Martial Arts",
+				"Olympic Sports",
+				"Poker and Professional Gambling",
+				"Rodeo",
+				"Rowing",
+				"Rugby",
+				"Sailing",
+				"Skiing",
+				"Snooker/Pool/Billiards",
+				"Soccer",
+				"Softball",
+				"Squash",
+				"Swimming",
+				"Table Tennis",
+				"Tennis",
+				"Track and Field",
+				"Volleyball",
+				"Walking",
+				"Water Polo",
+				"Weightlifting",
+				"Wrestling"
+			]
+		},
+		"style-fashion": {
+			"name": "Style & Fashion",
+			"topics": [
+				"Beauty",
+				"Body Art",
+				"Children's Clothing",
+				"Designer Clothing",
+				"Fashion Trends",
+				"High Fashion",
+				"Men's Fashion",
+				"Personal Care",
+				"Street Style",
+				"Women's Fashion"
+			]
+		},
+		"technology-computing": {
+			"name": "Technology & Computing",
+			"topics": [
+				"Artificial Intelligence",
+				"Augmented Reality",
+				"Computing",
+				"Consumer Electronics",
+				"Robotics",
+				"Virtual Reality"
+			]
+		},
+		"television": {
+			"name": "Television",
+			"topics": [
+				"Animation TV",
+				"Children's TV",
+				"Comedy TV",
+				"Drama TV",
+				"Factual TV",
+				"Holiday TV",
+				"Music TV",
+				"Reality TV",
+				"Science Fiction TV",
+				"Soap Opera TV",
+				"Special Interest TV",
+				"Sports TV"
+			]
+		},
+		"travel": {
+			"name": "Travel",
+			"topics": [
+				"Travel Accessories",
+				"Travel Locations",
+				"Travel Preparation",
+				"Travel Type"
+			]
+		},
+		"video-gaming": {
+			"name": "Video Gaming",
+			"topics": [
+				"Console Games",
+				"eSports",
+				"Mobile Games",
+				"PC Games",
+				"Video Game Genres"
+			]
+		}
+	}
+}
